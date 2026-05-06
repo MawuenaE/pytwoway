@@ -1,0 +1,13 @@
+{
+  "nk": 10,
+  "nl": 6,
+  "n_init": 10,
+  "n_best": 3,
+  "ncore": 1,
+  "seed": 123,
+  "n_mover_rows_eventstudy": 4995,
+  "n_stayer_rows_eventstudy": 15005,
+  "connectedness": 0.7581574002239377,
+  "likelihood_movers": -2.133220456617742,
+  "likelihood_stayers": -1.7142213503938306
+}
